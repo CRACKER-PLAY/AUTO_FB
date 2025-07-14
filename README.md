@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/8922563f-ce6d-4643-be9d-51f6022d1176)
+
 # AUTO_FB
 # TERMUX ----/!
 # termux-setup-storage -y
